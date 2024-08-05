@@ -1,0 +1,12 @@
+.container{
+    margin: 100px;
+}
+
+.card mb-3{
+    margin-top: 50px;
+}
+h5{
+
+    color: rgba(80, 78, 214, 0.664);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
